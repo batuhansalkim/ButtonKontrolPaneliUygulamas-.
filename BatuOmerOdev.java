@@ -3,6 +3,9 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+// Batuhan Salkım 1210505904
+// Ömer Kargalı  1220505069
+
 public class BatuOmerOdev extends JButton {
     //degiskenler tanimlandi
     private String graphQLSchema;
